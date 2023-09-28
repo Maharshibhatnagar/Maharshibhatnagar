@@ -1,20 +1,20 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-various-electronic-devices-computer-smartphone-tablet-pc-cross-platform-software-program-application-testing-illustration-line-art-style_198278-3230.jpg?w=2000)
 
 <h1 align="center">Hi 👋, I'm Maharshi Bhatnagar</h1>
-<h3 align="center">A passionate student</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">A Self Taught Modern Web Developer and a DevOps Learner</h3>
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/freelance-developer-working-on-laptop-4337850">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharshibhatnagar&label=Profile%20views&color=0e75b6&style=flat" alt="maharshibhatnagar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maharshibhatna1" target="blank"><img src="https://img.shields.io/twitter/follow/maharshibhatna1?logo=twitter&style=for-the-badge" alt="maharshibhatna1" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps and Modern Web Development**
+- 🔭 I’m currently working on **DevOps and Modern Web Development.**
 
-- 🌱 I’m currently learning **YAML, Jenkins, Ansible, Kubernetes, Docker, Terraform and DevOps Related Tools**
+- 🌱 I’m currently learning **YAML, Jenkins, Ansible, Kubernetes, Docker, Terraform and DevOps Related Tools.**
 
-- 🤝 I’m looking for help with **Next js, Node js, PHP, Ruby, Jenkinsfile, Yaml**
+- 🤝 I’m looking for help with **Next js, Node js, PHP, Ruby, Jenkinsfile, Yaml.**
 
-- 💬 Ask me about **Linux , JavaScript, web development**
+- 💬 Ask me about **Linux, JavaScript, and web development.**
 
 - 📫 How to reach me **bhatnagarmaharshi@gmail.com**
 
