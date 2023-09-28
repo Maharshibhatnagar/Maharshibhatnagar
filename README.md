@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/maharshibhatna1" target="blank"><img src="https://img.shields.io/twitter/follow/maharshibhatna1?logo=twitter&style=for-the-badge" alt="maharshibhatna1" /></a> </p>
 
-- 🔭 I’m currently working on **project building**
+- 🔭 I’m currently working on **DevOps and Modern Web Development**
 
-- 🌱 I’m currently learning **python, javascript**
+- 🌱 I’m currently learning **YAML, Jenkins, Ansible, Kubernetes, Docker, Terraform and DevOps Related Tools**
 
-- 🤝 I’m looking for help with **react js, node js, php, ruby, yaml.**
+- 🤝 I’m looking for help with **Next js, Node js, PHP, Ruby, Jenkinsfile, Yaml**
 
-- 💬 Ask me about **linux , java**
+- 💬 Ask me about **Linux , JavaScript, web development**
 
 - 📫 How to reach me **bhatnagarmaharshi@gmail.com**
 
